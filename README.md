@@ -1,1 +1,1 @@
-# simpeRockPaperScissors
+# simpleRockPaperScissors
